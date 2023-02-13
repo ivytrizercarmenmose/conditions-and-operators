@@ -1,6 +1,6 @@
 def displaynames():
     name = input("enter first name")
-    print(name +  "mose")
+    print(name + "mose")
 
 
 displaynames()
