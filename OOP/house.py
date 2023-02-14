@@ -5,4 +5,4 @@ class House1():
     dinning = 2
 
 house1obj = House1()
-print (house1obj.doors, house1obj.dinning, house1obj.kitchen )
+print(house1obj.doors, house1obj.dinning, house1obj.kitchen)
